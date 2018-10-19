@@ -15,5 +15,5 @@ spring:
 env:
   dev
 girl: 
-  name: lilli
+  name: li
   age: 20
