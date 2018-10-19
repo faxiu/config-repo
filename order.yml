@@ -21,6 +21,6 @@ spring:
           password: hekai2pyy
           basedir: E:/study/sell/config/basedir
 girl:
-  name: lili
+  name: yy
   age: 18
   
