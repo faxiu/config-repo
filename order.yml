@@ -22,5 +22,5 @@ spring:
           basedir: E:/study/sell/config/basedir
 girl:
   name: lili
-  age: 18
+  age: 20
   
